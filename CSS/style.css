@@ -5,11 +5,17 @@ body{
 
 h1{
     margin: 0;
+    font-size: 100px;
+    opacity: 80%;
 }
 p{
     font-family: 'Sacramento', cursive;;
     font-size: xx-large;
+    font-size: 50px;
 }
 p{
     margin-top: 0%;
+}
+.top{
+    padding-top: 100px;
 }
